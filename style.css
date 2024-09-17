@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .container {
+    margin-top: 50px;
+  }
+  .pokemon-info {
+    margin-top: 20px;
+  }
+  .pokemon-img {
+    width: 200px;
+    height: 200px;
+  }
